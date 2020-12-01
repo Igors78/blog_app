@@ -21,7 +21,7 @@ A list of commonly used resources that I find helpful is listed in the acknowled
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Live Demo](#live-demo)
 * [Getting Started](#getting-started)
 * [Authors](#authors)
@@ -58,14 +58,14 @@ e.g. $ git clone https://github.com/yourUsername/yourProjectName
 
 ## Authors
 
-👤 **Igors Oleinikovs**
+👤 **Igors Oleinikovs** 👨🏿‍💻
 
 - GitHub: [@githubhandle](https://github.com/Igors78)
 - Twitter: [@twitterhandle](https://twitter.com/oleinikovs)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/igors-oleinikovs-17a10958/)
 
 
-👤 **Yoko Saka**
+👤 **Yoko Saka** 👨🏿‍💻
 
 - GitHub: [@yocosaka](https://github.com/yocosaka)
 - Twitter: [@yocosaka](https://twitter.com/yocosaka)
